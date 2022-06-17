@@ -2,8 +2,8 @@ import math
 import time
 '''
 Names: 
-1- Yazeed Mohammed Alzughaibi - 1847186
-2- Abdulrahman Sameer Aljuhani - 1847693
+1- Yazeed Mohammed Alzughaibi
+2- Abdulrahman Sameer Aljuhani
 This is EE305 project
 this python written program has two differant algorithms 
 that will recive a range of numbers from the lowend to 
