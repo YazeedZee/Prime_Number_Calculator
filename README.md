@@ -5,7 +5,7 @@ This Python written program has two differant algorithms that will receive a ran
 - install python3 on your computer
 - open your CMD (command prompt) 
 - go to the directory of the file using "CD" 
-- write: python EE305Proj.py 
+- write: python Prime_Number_Calculator.py 
 - after that the program should run fine.
 - *OR*
 - run the python file directly by double clicking it
